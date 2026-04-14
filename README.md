@@ -73,6 +73,7 @@ game-website/
   |- eslint.config.js
   |- index.html
   |- netlify.toml
+  |- package-lock.json
   |- package.json
   |- postcss.config.mjs
   |- tsconfig.app.json
@@ -119,7 +120,7 @@ Useful resources and dependencies that are used in Nova.
 
 - The design and animations of this project were inspired by the Zentry.com website, which is an award-winning website recognized on [Awwwards.com](https://awwwards.com "Awwwards.com").
 <!--- DEPENDENCIES_START --->
-- [@eslint/js](https://www.npmjs.com/package/@eslint/js): ^10.0.1
+- [@eslint/js](https://www.npmjs.com/package/@eslint/js): ^9.10.0
 - [@gsap/react](https://www.npmjs.com/package/@gsap/react): ^2.1.2
 - [@tailwindcss/postcss](https://www.npmjs.com/package/@tailwindcss/postcss): ^4.1.18
 - [@tailwindcss/vite](https://www.npmjs.com/package/@tailwindcss/vite): ^4.1.18
@@ -128,7 +129,7 @@ Useful resources and dependencies that are used in Nova.
 - [@vitejs/plugin-react](https://www.npmjs.com/package/@vitejs/plugin-react): ^6.0.1
 - [autoprefixer](https://www.npmjs.com/package/autoprefixer): ^10.4.24
 - [clsx](https://www.npmjs.com/package/clsx): ^2.1.1
-- [eslint](https://www.npmjs.com/package/eslint): ^10.0.0
+- [eslint](https://www.npmjs.com/package/eslint): ^9.10.0
 - [eslint-plugin-react](https://www.npmjs.com/package/eslint-plugin-react): ^7.37.2
 - [eslint-plugin-react-hooks](https://www.npmjs.com/package/eslint-plugin-react-hooks): ^7.0.1
 - [eslint-plugin-react-refresh](https://www.npmjs.com/package/eslint-plugin-react-refresh): ^0.5.0
