@@ -39,7 +39,7 @@ export const VIDEO_LINKS = {
   feature4: "/videos/feature-4.mp4",
   feature5: "/videos/feature-5.mp4",
   hero1: "/videos/hero-1.mp4",
-  hero2: "/img/contact-2.webp",
+  hero2: "/videos/hero-2.mp4",
   hero3: "/videos/hero-3.mp4",
   hero4: "/videos/hero-4.mp4",
 };

@@ -69,7 +69,7 @@ export const Navbar = () => {
               rightIcon={TiLocationArrow}
               containerClass="bg-blue-50 md:flex hidden items-center justify-center gap-1"
             >
-              Products
+              Seismic
             </Button>
           </div>
 
